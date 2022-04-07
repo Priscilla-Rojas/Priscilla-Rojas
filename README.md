@@ -1,5 +1,8 @@
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Soy Priscilla</h1>
-<h3 align="center"> Full Stack Developer </h3>
+![Hola soy Priscilla Rojas](https://github.com/Priscilla-Rojas/Priscilla-Rojas/blob/master/priscilla.gif)
+
+<h2 align="center">
+Full Stack Developer
+</h2>
 
 <!--
 **Priscilla-Rojas/Priscilla-Rojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
