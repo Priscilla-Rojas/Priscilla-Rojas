@@ -43,6 +43,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
   <!-- <img align="center" alt="Rafa-Csharp" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"> -->
   <img align="center" alt="Rafa-Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+   <img align="center" alt="Rafa-Sequelize" height="35" width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sequelize/sequelize-original.svg">
 
 </div>
   
