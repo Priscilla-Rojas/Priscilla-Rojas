@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/priscilla-k-rojas/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="mailto:priscilla.k.rojas@hotmail.com" ><img width="5%" src="https://img.icons8.com/fluent/48/000000/mail.png">
 
 </p>
     
