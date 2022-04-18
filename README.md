@@ -67,7 +67,8 @@ Here are some ideas to get you started:
 <hr/>
   
   
-## Connect with me:
+ ## 📊 My Proyects
+ <br/>
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/priscilla-k-rojas/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
