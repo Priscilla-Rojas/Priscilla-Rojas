@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 
 ### Recipes App 
  
- --Desarrollo de una SPA (Single Page Aplication), utilizando React para el Front End y Redux como State Managment. Todos los componentes fueron desarrollados con Css sin uso de librerías externas.
--- La SPA consume datos de un API (Spoonacular) a través de un Back End desarrollado en Node JS utilizando Express , agregando nuevas funcionalidades a la API original.
--- Algunas Features del Proyecto: Ordenamiento y filtros, Formulario contralado para creación de nuevas recetas.
+ -Desarrollo de una SPA (Single Page Aplication), utilizando React para el Front End y Redux como State Managment. Todos los componentes fueron desarrollados con Css sin uso de librerías externas.
+- La SPA consume datos de un API (Spoonacular) a través de un Back End desarrollado en Node JS utilizando Express , agregando nuevas funcionalidades a la API original.
+- Algunas Features del Proyecto: Ordenamiento y filtros, Formulario contralado para creación de nuevas recetas.
  
  
 <img src="https://github.com/Priscilla-Rojas/PI/blob/main/client/src/assets/templates/landing.JPG"/>
