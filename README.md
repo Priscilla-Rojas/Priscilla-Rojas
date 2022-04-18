@@ -63,8 +63,6 @@ Here are some ideas to get you started:
 <img src="https://github.com/Priscilla-Rojas/PI/blob/main/client/src/assets/templates/home.JPG"/>
 <img src="https://github.com/Priscilla-Rojas/PI/blob/main/client/src/assets/templates/form.JPG"/>
 <img src="https://github.com/Priscilla-Rojas/PI/blob/main/client/src/assets/templates/filtradoDietas.JPG"/>
-<img src="https://github.com/Priscilla-Rojas/PI/blob/main/client/src/assets/templates/home.JPG"/>
-
 
 <hr/>
   
