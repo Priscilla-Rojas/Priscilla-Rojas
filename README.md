@@ -56,9 +56,15 @@ Here are some ideas to get you started:
   <a href="https://github.com/Priscilla-Rojas/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priscilla-Rojas&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
     
-  ### My proyects
+  ## My proyects
 
-- Recipes App 
+### Recipes App 
+ 
+ --Desarrollo de una SPA (Single Page Aplication), utilizando React para el Front End y Redux como State Managment. Todos los componentes fueron desarrollados con Css sin uso de librerías externas.
+-- La SPA consume datos de un API (Spoonacular) a través de un Back End desarrollado en Node JS utilizando Express , agregando nuevas funcionalidades a la API original.
+-- Algunas Features del Proyecto: Ordenamiento y filtros, Formulario contralado para creación de nuevas recetas.
+ 
+ 
 <img src="https://github.com/Priscilla-Rojas/PI/blob/main/client/src/assets/templates/landing.JPG"/>
 <img src="https://github.com/Priscilla-Rojas/PI/blob/main/client/src/assets/templates/home.JPG"/>
 <img src="https://github.com/Priscilla-Rojas/PI/blob/main/client/src/assets/templates/form.JPG"/>
