@@ -56,14 +56,24 @@ Here are some ideas to get you started:
   <a href="https://github.com/Priscilla-Rojas/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priscilla-Rojas&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
     
-  
+  ### My proyects
+
+- Recipes App 
+<img src="https://github.com/Priscilla-Rojas/PI/blob/main/client/src/assets/templates/landing.JPG"/>
+<img src="https://github.com/Priscilla-Rojas/PI/blob/main/client/src/assets/templates/home.JPG"/>
+<img src="https://github.com/Priscilla-Rojas/PI/blob/main/client/src/assets/templates/form.JPG"/>
+<img src="https://github.com/Priscilla-Rojas/PI/blob/main/client/src/assets/templates/filtradoDietas.JPG"/>
+<img src="https://github.com/Priscilla-Rojas/PI/blob/main/client/src/assets/templates/home.JPG"/>
+
+
+<hr/>
   
   
 ## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/priscilla-k-rojas/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="mailto:priscilla.k.rojas@hotmail.com" ><img width="5%" src="https://img.icons8.com/fluent/48/000000/mail.png">
+<a href="mailto:priscilla.k.rojas@hotmail.com" ><img src="https://img.icons8.com/fluent/48/000000/mail.png"/></a>
 
 </p>
     
