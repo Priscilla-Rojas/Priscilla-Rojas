@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🙋‍♂️ About Me
+## 🙋‍♂️ Sobre mi:
 
 - 🔭 Buscando  La primer oportunidad IT 
 - 🌱 Estudiando  Full stack Developer 
 - 😄 Pronouns: Pry
 
-## 🚀 Lenguajes and Tools:
+## 🚀 Lenguajes y herramientas:
 
 </div align="left">
   <div style="display: inline_block"><br>
@@ -50,15 +50,15 @@ Here are some ideas to get you started:
 
 <br/>
 
-  ## 📊 My Github Stats
+  ## 📊 Mis estadísticas de Github
   <br/>
     <a href="https://github.com/Priscilla-Rojas/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Priscilla-Rojas&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Priscilla-Rojas/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priscilla-Rojas&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
     
-  ## My proyects
+  ## Mis proyectos
 
-### Recipes App 
+### WebApp de recetas
  
 - Desarrollo de una SPA (Single Page Aplication), utilizando React para el Front End y Redux como State Managment. Todos los componentes fueron desarrollados con Css sin uso de librerías externas.
 - La SPA consume datos de un API (Spoonacular) a través de un Back End desarrollado en Node JS utilizando Express , agregando nuevas funcionalidades a la API original.
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <hr/>
   
   
- ## 📊 My Proyects
+ ## 📫 Contactame:
  <br/>
 <p align="left">
 
