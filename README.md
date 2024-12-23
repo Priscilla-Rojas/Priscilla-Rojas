@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 Buscando  La primer oportunidad IT 
 - 🌱 Estudiando  Full stack Developer 
-- 😄 Pronouns: Pry
+- 😄 Pronouns: Pris
 
 ## 🚀 Lenguajes y herramientas:
 
