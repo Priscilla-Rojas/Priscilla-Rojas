@@ -1,7 +1,7 @@
 ![Hola soy Priscilla Rojas](https://github.com/Priscilla-Rojas/Priscilla-Rojas/blob/master/priscilla.gif)
 
   # Full Stack Developer (Argentina) | React · Node.js · PostgreSQL  
-### Actualmente cursando la **Tecnicatura en Análisis de Sistemas** (primer año completo aprobado).
+### Actualmente cursando el 2do año la **Tecnicatura en Análisis de Sistemas**.
 
 ## 🙋‍♂️ Sobre mi:
 
