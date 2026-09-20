@@ -52,10 +52,10 @@ Full Stack · React + Redux + Node/Express + PostgreSQL
 <img src="https://github.com/Priscilla-Rojas/PI/blob/main/client/src/assets/templates/filtradoDietas.JPG"/>
 
 ---
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Priscilla-Rojas&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Priscilla-Rojas&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priscilla-Rojas&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priscilla-Rojas&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 ## 📚 Formación
